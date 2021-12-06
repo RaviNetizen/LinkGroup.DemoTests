@@ -1,4 +1,4 @@
-# LinkGroup.DemoTests
+# DemoTests
 
 **Contact**
 Your Name - Ravi Kumar @ https://github.com/RaviNetizen
