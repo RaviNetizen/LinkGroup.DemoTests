@@ -27,6 +27,7 @@ Visaul Studio 2019
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
 Install NPM packages
+
 DotNetSeleniu,Extras.PageObjects.Core(4.0.1)
 Nunit (3.1.3.2)
 NUnit3TestAdapter(4.1.0)
