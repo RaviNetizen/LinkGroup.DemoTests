@@ -29,14 +29,23 @@ Below is an example of how you can instruct your audience on installing and sett
 Install NPM packages
 
 DotNetSeleniu,Extras.PageObjects.Core(4.0.1)
+
 Nunit (3.1.3.2)
+
 NUnit3TestAdapter(4.1.0)
+
 Selenium.Support(4.1.0)
+
 SeleniumWebDriver(4.1.0)
+
 SeleniumWebDriver.ChrmeDriver(96.04)
+
 SeleniumExtras.WaitHelpers(1.0.2)
+
 SpecFlow(3.9.40)
+
 SpecFlow.NUnit(3.9.40)
+
 SpecFlow.Tools.MsBuild.Generation(3.9.40)
 
 **Project Link**: https://github.com/your_username/repo_name
